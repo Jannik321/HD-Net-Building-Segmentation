@@ -131,3 +131,7 @@
 | mmseg_environment.yml | Conda环境配置 |
 | dataset/final_train.txt | 本地训练集划分 |
 | dataset/val.txt | 本地验证集划分 |
+
+---
+
+> **备注**：考虑到本科毕业设计仍在持续完善中，当前仓库为阶段性整理版本，暂开放至 **4月9日**，主要用于展示目前已完成的工作内容。
