@@ -40,6 +40,10 @@
 
 **HD-Net: High-Resolution Decoupled Network for Building Footprint Extraction via Deeply Supervised Body and Boundary Decomposition**
 
+> 论文作者: Yuxuan Li, Danfeng Hong, Chenyu Li, Jing Yao, Jocelyn Chanussot
+> 发表于: ISPRS Journal of Photogrammetry and Remote Sensing, 2024
+> 原文链接: https://authors.elsevier.com/a/1iYW63I9x1qnCx
+
 该模型的核心思路，是将建筑物分割中的区域信息与边界信息进行解耦建模，并通过多阶段 refinement 与动态融合提升预测效果。
 
 在复现过程中，我重点关注了以下几个方面：
